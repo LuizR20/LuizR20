@@ -1,7 +1,7 @@
 Hi 👋 My name is Luiz Raphael
 =============================
 
-Dev
+About me/Sobre mim:
 ---
 
 I am a young boy, looking to grow in the world of programming, trying to become experienced in the C# programming language and become a Game Dev.
